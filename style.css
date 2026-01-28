@@ -62,7 +62,7 @@ body {
 
 .hero-text h1 {
     font-size: 42px;
-    color: #3b5cff;
+    color: #7687de;
     margin-bottom: 20px;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .btn {
-    background: #3b5cff;
+    background: #6179f4;
     color: white;
     padding: 14px 28px;
     border-radius: 30px;
@@ -164,7 +164,7 @@ body {
 }
 
 .portfolio-card {
-    background: white;
+    background: rgb(120, 142, 204);
     padding: 30px;
     border-radius: 25px;
     box-shadow: 0 15px 35px rgba(0,0,0,.1);
@@ -188,7 +188,7 @@ body {
     padding: 25px 30px;
     border-radius: 20px;
     box-shadow: 0 10px 25px rgba(0,0,0,.08);
-    width: 220px;
+    width: 300px;
 }
 
 /* FOOTER */
